@@ -1,0 +1,15 @@
+{
+  "name": "vanilla-js-to-do-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mvc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/karabayse/vanilla-js-to-do-list.git"
+  },
+  "author": "Kara Bayse",
+  "license": "ISC"
+}
